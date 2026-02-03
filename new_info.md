@@ -1,1 +1,2 @@
-This is a test file for info
+This is my new line of text
+Another line
