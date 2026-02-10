@@ -11,4 +11,18 @@
     </a>
   </div>
   <h2 align="right"> This was our 3<sup>rd</sup> championship win </h2>
+  <table>
+  <tr>
+    <th>Section</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>Images</b></td>
+    <td>Stored in a subfolder and linked using HTML</td>
+  </tr>
+  <tr>
+    <td><b>Links</b></td>
+    <td>Navigation between README and image directory</td>
+  </tr>
+</table>
 </html>
