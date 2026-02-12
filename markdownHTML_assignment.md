@@ -20,4 +20,5 @@
     <td>This is a subfolder containing the picture on the right</td>
   </tr>
 </table>
+  V̇O₂
 </html>
