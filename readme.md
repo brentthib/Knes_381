@@ -1,5 +1,5 @@
 # 1. Visit the Living Resume
-The full project is hosted at: https://brentthib.github.io/Knes_381/generic.html#projects
+The full project is hosted at: https://brentthib.github.io/Knes_381/generic.html#about
 ## 2. Explore the Sections
 The site includes interative sections:
 - About Me — background and goals
