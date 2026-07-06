@@ -1,6 +1,6 @@
 # Brent Thibault
 
-**Address:** 10 Vista Close., Red Deer, AB T4R 2P2  
+**Address:** 10 Vista Close., Red Deer, AB T4R 0N8  
 **Phone:** 403-848-1289  
 **Email:** thibaultbrent12@gmail.com  
 
@@ -22,15 +22,6 @@ Expected Graduation: 2026
 **Red Deer Polytechnic** — Fall 2020 to Winter 2023  
 Completed foundational coursework prior to transfer to the University of Calgary.
 
-**Relevant Coursework and Labs**
-- Exercise Physiology  
-- VO₂ Kinetics and Gas Exchange Analysis  
-- Motor Learning  
-- Adapted Physical Activity  
-- Strength and Conditioning  
-- Human Anatomy  
-- Movement Analysis and Biomechanics  
-
 ---
 
 ## Experience
@@ -49,14 +40,14 @@ Completed foundational coursework prior to transfer to the University of Calgary
 - Delivered customer service during high-volume periods  
 - Contributed to efficient daily operations through reliability and teamwork  
 
-### Inline Hockey Official — Alberta In-Line  
-**Red Deer, AB** | May 2015 – Present  
+### Inline Hockey Official — Alberta Inline  
+**Red Deer, AB** | May 2015 – July 2020 
 - Officiate games with emphasis on safety, fairness, and rule enforcement  
-- Demonstrate leadership, communication, and conflict-management skills  
-- Make fast, accurate decisions in high-pressure situations  
+- Demonstrate leadership, communication, and conflict management skills  
+- Make fast, accurate decisions in high pressure situations  
 
 ### Hockey Official — Hockey Alberta  
-**Red Deer, AB** | September 2017 – March 2017  
+**Red Deer, AB** | September 2017 – March 2018  
 - Officiated minor hockey games, ensuring safe and fair play  
 - Developed strong decision-making and communication skills in demanding environments  
 
@@ -71,10 +62,13 @@ Completed foundational coursework prior to transfer to the University of Calgary
 - Contributed to fundraising efforts supporting Special Olympics programs across Canada  
 
 ### Red Deer Food Bank  
-**Red Deer, AB** | Year(s) TBD  
+**Red Deer, AB** | 2012-2020  
 - Sorted and packed food hampers for families in need  
-- Assisted with organizing donations and maintaining an efficient workspace  
-- Supported community food distribution through reliable volunteer service  
+- Assisted with organizing donations
+
+### G.W. Smith School
+**Red Deer, AB** | 2022-2024
+-Helped in organizing activities and games for students
 
 ---
 
@@ -107,21 +101,22 @@ Completed foundational coursework prior to transfer to the University of Calgary
 
 ---
 
-## Professional Development
-
-- Standard First Aid and CPR *(to be confirmed)*  
-- NCCP Coaching Certification(s) *(to be confirmed)*  
-
----
-
-## Awards
-
-- Honor Roll (2015–2019)  
-- Christian Spirit Award (2017)  
-- Team Canada Inline – NARCH, 2nd Place (2019)  
-- Team Alberta Inline – State Wars, 1st Place (2019)  
-
----
-
 ## References
 
+**Shawna Schnick**<br>
+Instructor<br>
+Red Deer Polytechnic
+
+(403) 396-3553<br>
+shawna.schnick@rdpolytech.ca
+
+**Laura St.John**<br> 
+Professor<br>
+University of Calgary
+
+**Dylan Johnstone**<br>
+General Manager<br>
+Golf Town
+
+(250) 826-5266<br>
+510gm@golftown.com
