@@ -18,7 +18,7 @@ Fourth-year Bachelor of Science in Kinesiology student with hands-on experience 
 **University of Calgary** — Fall 2023 to Present  
 Expected Graduation: 2026
 
-### Bachelor of Science (Kinesiology Stream)  
+### Bachelor of Science 
 **Red Deer Polytechnic** — Fall 2020 to Winter 2023  
 Completed foundational coursework prior to transfer to the University of Calgary.
 
